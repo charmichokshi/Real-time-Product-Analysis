@@ -1,2 +1,4 @@
 # Real-time-Product-Analysis
-A price comparison engine using Web Crawler and Web Scraper
+
+Developed a price comparison engine using Web Crawler and Scraper in python which aims to facilitate the
+buyers to compare products from different E-commerce websites and purchase the product at the best deal.
